@@ -1,3 +1,4 @@
+/* eslint-disable import/no-useless-path-segments */
 import actions from '../../actions/';
 import ProductMock from '../../__mocks__/ProductMock';
 
